@@ -1,0 +1,33 @@
+
+.titulo-p-contact{
+    font-family: "Raleway";
+    font-size: 60px;
+}
+
+.titulo-contact{
+    font-family: "Raleway";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+
+.subti-contact{
+    margin: 20px 0px 30px;
+    font-family: "Raleway";
+    font-size: 20px;
+    color: hwb(180 23% 53%);
+    font-weight: normal;
+}
+
+.contact-texto{
+    font-size: 15px;
+    font-family: "Open Sans";
+    font-weight: normal;
+    line-height: 25px;
+    margin: 0px;
+}
+
+.margen-end{
+    margin-bottom: 35px;
+}

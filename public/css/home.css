@@ -1,0 +1,30 @@
+
+.home-header{
+}
+
+.home-main .titulo-main{
+    width: 120px;
+    line-height: 30px;
+    margin-top: 170px;
+    margin-left: 40px;
+    font-family: "Work Sans";
+}
+
+.home-main .titulo{
+    background-color: rgba(255, 255, 255,0.3);
+    font-weight: bold;
+    font-size: 4rem;
+    margin-top: 160px;
+    margin-bottom: 70px;
+    margin-left: 10px;
+    font-family: "Raleway";
+    font-style: normal;
+}
+
+.home-body{
+    background-image: url("../images/1.jpg");
+    background-size: 75% 100%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}

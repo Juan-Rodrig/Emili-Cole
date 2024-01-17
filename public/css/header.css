@@ -1,0 +1,48 @@
+
+/* TODOS MENOS HOME */
+
+.columna-nav{
+    text-align: right;
+    padding-top: 40px;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 8px;
+}
+
+.columna-nav li{
+    display: inline-block;
+}
+
+.about-vincul-nav li{
+    display: inline-block;
+}
+
+.about-vincul-nav{
+    text-align: right;
+}
+
+/* HEADER MUSIC  */
+
+.header-fondo{
+    background-image: url("../images/4.jpg");
+    padding: 30px 5px 20px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.music-body{
+    margin: 0px;
+}
+
+.music-nav .columna-nav{
+    margin: 0px;
+}
+
+.about-vincul-nav{
+    margin: 0px;
+    padding-top: 15px;
+}
+
+.main-music{
+    padding-left: 10px;
+}
+

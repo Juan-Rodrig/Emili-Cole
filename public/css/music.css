@@ -1,0 +1,51 @@
+
+
+.titulo{
+    font-family: "Raleway";
+    font-size: 60px;
+    margin-left: 10px;
+}
+
+.letras-general{
+    font-family: "Open Sans";
+}
+
+.letras-general p{
+    font-weight: bold;
+}
+
+.letras-general li a{
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+    /* section 1  */
+
+.titulo1{
+    font-family: "Raleway";
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+.atajos{
+    color: black;
+    text-decoration: none;
+    line-height: 20px;
+    font-family: "Open Sans";
+}
+
+.letras-general-music{
+    font-family: "Open Sans";
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 10px;
+}
+
+.letras-general-music-top{
+    color: black;
+    font-family: "Open Sans";
+    text-decoration: none;
+    font-size: 16px;
+}

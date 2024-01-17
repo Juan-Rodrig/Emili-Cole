@@ -1,0 +1,20 @@
+
+/* GENERAL DE HOME PARA TODOS */
+
+.text-nav{
+    font-family: "Open Sans";
+    color: black;
+    text-decoration: none;
+    line-height: 40px;
+}
+
+
+.redes-vinculad {
+    color: black;
+    font-size: 17px;
+}
+
+
+.redes-vinculadas li{
+    display: inline-block;
+}
